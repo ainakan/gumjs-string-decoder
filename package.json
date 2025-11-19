@@ -1,6 +1,6 @@
 {
-  "name": "@frida/string_decoder",
-  "description": "Node.js's string_decoder module for Frida",
+  "name": "@ainakan/string_decoder",
+  "description": "Node.js's string_decoder module for Ainakan",
   "version": "2.0.0",
   "publishConfig": {
     "access": "public"
@@ -12,9 +12,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-string-decoder.git"
+    "url": "https://github.com/ainakan/gumjs-string-decoder.git"
   },
-  "homepage": "https://github.com/frida/gumjs-string-decoder",
+  "homepage": "https://github.com/ainakan/gumjs-string-decoder",
   "keywords": [
     "string",
     "decoder"

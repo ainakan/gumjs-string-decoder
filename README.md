@@ -1,3 +1,3 @@
-# @frida/string_decoder
+# @ainakan/string_decoder
 
-Frida-optimized ESM fork of https://github.com/nodejs/string_decoder.
+Ainakan-optimized ESM fork of https://github.com/nodejs/string_decoder.
